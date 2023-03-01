@@ -185,6 +185,6 @@ typedef struct et2_telemetry_map_t
 } e2t_telemetry_map;
 
 
-e2t_bool get_telemetry_data(e2t_telemetry_map* map);
+e2t_bool e2t_get_telemetry_data(e2t_telemetry_map* map);
 
 #endif

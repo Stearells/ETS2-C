@@ -1,6 +1,6 @@
 #include "ets2telemetry.h"
 
-e2t_bool get_telemetry_data(e2t_telemetry_map *map)
+e2t_bool e2t_get_telemetry_data(e2t_telemetry_map *map)
 {
     if (map == e2t_nullptr)
         return e2t_false;
