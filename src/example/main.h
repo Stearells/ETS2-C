@@ -5,4 +5,4 @@
 #include <windows.h>
 #include "../ets2telemetry.h"
 
-#endif
+#endif // _MAIN_H_
